@@ -1,0 +1,4 @@
+
+
+非常有意思的是，kebab-case、camelCase和PascalCase在英语中都是遵循各自的规范拼写的：
+kebab-case是由短划线分割的全小写单词，camelCase的首字母是小写的而PascalCase的首字母是大写。
